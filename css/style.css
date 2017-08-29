@@ -62,9 +62,20 @@ a:hover{
 .center{
     text-align: center
 }
+.right{
+    text-align: right;
+}
+left{
+    text-align: left;
+}
 .content-section-b2{
     background-color: rgba(9,53,92,0.8)!important;
 }
 .img-responsive{
     max-width: 100%; 
+}
+.hover01 img:hover  {
+	-webkit-transform: scale(1.02);
+	transform: scale(1.02);
+    opacity: .8;
 }
